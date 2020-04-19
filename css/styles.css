@@ -1,0 +1,34 @@
+.services-dropdown{
+  color: white !important;
+}
+.logo{
+  width: 30%;
+  float:left;
+  padding: 15px;
+}
+.jumbotron{
+  padding: 7% 17%;
+}
+.title-text{
+  padding: 20px;
+}
+.col-md-4{
+  text-align: center;
+}
+.foot{
+  text-align: center;
+}
+.service-head{
+  padding: 15px;
+}
+.service-text{
+  padding: 15px;
+}
+@media (max-width: 770px){
+  .logo{
+    display: none;
+  }
+  .jumbo-cont{
+    text-align: center;
+  }
+}
